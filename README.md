@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/codeurge123/leetcodePractice/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/codeurge123/leetcodePractice/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
