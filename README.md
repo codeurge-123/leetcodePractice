@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/codeurge123/leetcodePractice/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/codeurge123/leetcodePractice/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
