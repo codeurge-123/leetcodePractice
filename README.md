@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codeurge123/leetcodePractice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/codeurge123/leetcodePractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [1837-sum-of-digits-in-base-k](https://github.com/codeurge123/leetcodePractice/tree/master/1837-sum-of-digits-in-base-k) |
 ## Binary Search
 |  |
 | ------- |
