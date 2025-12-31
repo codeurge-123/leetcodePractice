@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/codeurge123/leetcodePractice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/codeurge123/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/codeurge123/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeurge123/leetcodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codeurge123/leetcodePractice/tree/master/0054-spiral-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
