@@ -13,3 +13,25 @@ public:
 
     }
 };
+
+// nooshabasshka
+//      ^
+    // 6   *    7 = 42 
+
+        // hab
+
+//         a
+//        ha
+//       sha
+//      osha
+//     oosha
+//    noosha 
+
+//         ab
+//         aba
+//         abas
+//         abass
+//         abassh
+//         abasshk
+//         abasshka   
+
