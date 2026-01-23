@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/codeurge123/leetcodePractice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
+| [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/codeurge123/leetcodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/codeurge123/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/codeurge123/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/codeurge123/leetcodePractice/tree/master/0205-isomorphic-strings) |
+| [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
 | [2063-vowels-of-all-substrings](https://github.com/codeurge123/leetcodePractice/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
