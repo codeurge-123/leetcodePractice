@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/codeurge123/leetcodePractice/tree/master/2104-sum-of-subarray-ranges) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
@@ -165,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeurge123/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/codeurge123/leetcodePractice/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeurge123/leetcodePractice/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/codeurge123/leetcodePractice/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
