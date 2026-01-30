@@ -1,21 +1,40 @@
 class Solution {
 public:
+
+    bool checkforsort(vector<int> &nums) {
+        for(int i = 0;i<nums.size()-1;i++) {
+            if(nums[i] > nums[i+1]) return false;
+        }
+        return true;
+    }
+
     bool check(vector<int>& nums) {
 
-        int count = 0;
-        for(int i = 1;i<nums.size();i++) {
-            if(!(nums[i] >= nums[i-1])) {
-                if(count == 0) count++;
-                else return false;
-            }        
+        if(checkforsort(nums)) return true;
+
+        if(nums[0] < nums[nums.size()-1]) return false;
+
+        int first = 0;
+        int second = 0;
+        for(int i = 0;i<nums.size()-1;i++) {
+            if(nums[i] > nums[i+1]) {
+                second = i+1;
+                break;
+            }
         }
 
-        if(count != 0) {
-            if(!(nums[0] >= nums[nums.size()-1])) return false;
+
+        while(first < second-1) {
+            if(nums[first] > nums[first+1]) return false;
+            first++;
         }
 
+        while( second < nums.size()-1) 
+        {
+            if(nums[second] > nums[second+1]) return false;
+            second++;
+        }
 
         return true;
-
     }
 };
