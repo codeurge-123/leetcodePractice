@@ -10,12 +10,13 @@ public:
             }
 
             maxi = max(maxi,end-start);
-
-            while(end < nums.size() && nums[end] == 0) {
-                end++;
-            }
             start = end;
 
+            while(end < nums.size() && nums[end] != 1) {
+                end++;
+            }
+
+            start = end;
 
         }
 
