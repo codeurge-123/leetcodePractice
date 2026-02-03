@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/codeurge123/leetcodePractice/tree/master/2104-sum-of-subarray-ranges) |
+| [3637-trionic-array-i](https://github.com/codeurge123/leetcodePractice/tree/master/3637-trionic-array-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
