@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/codeurge123/leetcodePractice/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeurge123/leetcodePractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1901-find-a-peak-element-ii](https://github.com/codeurge123/leetcodePractice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/codeurge123/leetcodePractice/tree/master/2104-sum-of-subarray-ranges) |
 | [3637-trionic-array-i](https://github.com/codeurge123/leetcodePractice/tree/master/3637-trionic-array-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codeurge123/leetcodePractice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/codeurge123/leetcodePractice/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeurge123/leetcodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/codeurge123/leetcodePractice/tree/master/1901-find-a-peak-element-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/codeurge123/leetcodePractice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/codeurge123/leetcodePractice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeurge123/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/codeurge123/leetcodePractice/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
