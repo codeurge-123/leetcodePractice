@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/codeurge123/leetcodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/codeurge123/leetcodePractice/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/codeurge123/leetcodePractice/tree/master/0890-find-and-replace-pattern) |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/codeurge123/leetcodePractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codeurge123/leetcodePractice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/codeurge123/leetcodePractice/tree/master/1200-minimum-absolute-difference) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codeurge123/leetcodePractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codeurge123/leetcodePractice/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/codeurge123/leetcodePractice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/codeurge123/leetcodePractice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/codeurge123/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/codeurge123/leetcodePractice/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/codeurge123/leetcodePractice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -233,4 +236,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/codeurge123/leetcodePractice/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codeurge123/leetcodePractice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
